@@ -1,4 +1,2 @@
 # hello_world
-Learning
-
-Aprendiendo a editar
+Hi! This is me
